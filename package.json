@@ -1,0 +1,15 @@
+{
+  "name": "findTwoLowestKata",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rubyvictor/findTwoLowestKata.git",
+  "author": "Victor Lee <myleevictor@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^22.4.3"
+  },
+  "scripts": {
+      "test": "jest",     
+      "test:watch": "jest --watch"
+  }
+}
